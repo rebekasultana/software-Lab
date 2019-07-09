@@ -2,8 +2,9 @@
 int main()
 
 {
-    int i;
-    for(i=1;i<100;i++)
+    int i,n;
+    for(i=1;i<n;i++)
+    scanf("%d",&n);//input nilam
     {
         if((i%3==0)&(i%5==0)){
         printf("FizzBuzz\n");
@@ -24,3 +25,4 @@ return 0;
 }
 //ata akta FizzBuzz er program .
 //jkhon 3 dara vag kore vagfol paoa jabe tahole Fizz r  5 dara hole buzz  print korbe ...
+//
