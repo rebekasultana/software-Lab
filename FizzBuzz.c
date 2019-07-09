@@ -22,3 +22,5 @@ int main()
 }
 return 0;
 }
+//ata akta FizzBuzz er program .
+//jkhon 3 dara vag kore vagfol paoa jabe tahole Fizz r  5 dara hole buzz  print korbe ...
